@@ -20,9 +20,4 @@ The Random Password Generator is a handy tool to create strong and unique passwo
 - Generates strong and random passwords.
 - User-friendly command-line interface.
 
-## How to Use
 
-1. Run the Python script:
-
-   ```bash
-   python password_generator.py
